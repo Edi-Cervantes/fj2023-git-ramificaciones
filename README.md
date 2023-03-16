@@ -4,3 +4,7 @@
 Alumno: Edi Baltazar Cervantes Lopez
 
 Profesor: Bidkar Aragon Cardenas
+
+Ramificaciones
+- Fusionar
+- Reorganizar
